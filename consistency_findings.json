@@ -1,0 +1,38 @@
+[
+  {
+    "type": "temporal_gap",
+    "severity": "medium",
+    "video_id": "video_01_bouncing_ball",
+    "object_id": "ball_1",
+    "frame_before": 87,
+    "frame_after": 93,
+    "description": "ball_1 has 1 expected sampled frame(s) missing between frame 87 and 93. Likely a missed detection - verify against the source video."
+  },
+  {
+    "type": "bounding_box_jump",
+    "severity": "high",
+    "video_id": "video_02_traffic_lanes",
+    "object_id": "car_B",
+    "frame_before": 57,
+    "frame_after": 60,
+    "description": "car_B bounding box moved 185px between frame 57 and 60, vs a typical step of 18px for this object. Likely a mislabeled/misplaced box - verify manually."
+  },
+  {
+    "type": "bounding_box_jump",
+    "severity": "high",
+    "video_id": "video_02_traffic_lanes",
+    "object_id": "car_B",
+    "frame_before": 60,
+    "frame_after": 63,
+    "description": "car_B bounding box moved 217px between frame 60 and 63, vs a typical step of 18px for this object. Likely a mislabeled/misplaced box - verify manually."
+  },
+  {
+    "type": "possible_identity_switch",
+    "severity": "high",
+    "video_id": "video_03_pedestrian_crossing",
+    "object_id": "person_1 -> person_2",
+    "frame_before": 90,
+    "frame_after": 93,
+    "description": "Track 'person_1' (person) ends at frame 90, and a new track 'person_2' of the same type begins at frame 93, only 12px away. Likely the same physical object re-IDed - check for an occlusion event around these frames."
+  }
+]

@@ -1,0 +1,4577 @@
+{
+  "video_id": "video_02_traffic_lanes",
+  "width": 640,
+  "height": 360,
+  "fps": 12,
+  "frames": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "objects": []
+    },
+    {
+      "frame": 1,
+      "timestamp": 0.08,
+      "objects": []
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.17,
+      "objects": []
+    },
+    {
+      "frame": 3,
+      "timestamp": 0.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -48,
+            130,
+            2,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -45,
+            130,
+            5,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -42,
+            130,
+            8,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -39,
+            130,
+            11,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -36,
+            130,
+            14,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -33,
+            130,
+            17,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -30,
+            130,
+            20,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -27,
+            130,
+            23,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            634,
+            205,
+            684,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "timestamp": 0.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -24,
+            130,
+            26,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            628,
+            205,
+            678,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "timestamp": 1.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -21,
+            130,
+            29,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            622,
+            205,
+            672,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "timestamp": 1.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -18,
+            130,
+            32,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            616,
+            205,
+            666,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "timestamp": 1.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -15,
+            130,
+            35,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            610,
+            205,
+            660,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -12,
+            130,
+            38,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            604,
+            205,
+            654,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -9,
+            130,
+            41,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            598,
+            205,
+            648,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -6,
+            130,
+            44,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            592,
+            205,
+            642,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "timestamp": 1.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            -3,
+            130,
+            47,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            586,
+            205,
+            636,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "timestamp": 1.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            0,
+            130,
+            50,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            580,
+            205,
+            630,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "timestamp": 1.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            3,
+            130,
+            53,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            574,
+            205,
+            624,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "timestamp": 1.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            6,
+            130,
+            56,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            568,
+            205,
+            618,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "timestamp": 1.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            9,
+            130,
+            59,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            562,
+            205,
+            612,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "timestamp": 1.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            12,
+            130,
+            62,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            556,
+            205,
+            606,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "timestamp": 2.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            15,
+            130,
+            65,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            550,
+            205,
+            600,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "timestamp": 2.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            18,
+            130,
+            68,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            544,
+            205,
+            594,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "timestamp": 2.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            21,
+            130,
+            71,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            538,
+            205,
+            588,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "timestamp": 2.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            24,
+            130,
+            74,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            532,
+            205,
+            582,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "timestamp": 2.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            27,
+            130,
+            77,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            526,
+            205,
+            576,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "timestamp": 2.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            30,
+            130,
+            80,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            520,
+            205,
+            570,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 2.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            33,
+            130,
+            83,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            514,
+            205,
+            564,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "timestamp": 2.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            36,
+            130,
+            86,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            508,
+            205,
+            558,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "timestamp": 2.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            39,
+            130,
+            89,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            502,
+            205,
+            552,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "timestamp": 2.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            42,
+            130,
+            92,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            496,
+            205,
+            546,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "timestamp": 2.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            45,
+            130,
+            95,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            490,
+            205,
+            540,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "timestamp": 2.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            48,
+            130,
+            98,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            484,
+            205,
+            534,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "timestamp": 3.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            51,
+            130,
+            101,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            478,
+            205,
+            528,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "timestamp": 3.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            54,
+            130,
+            104,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            472,
+            205,
+            522,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "timestamp": 3.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            57,
+            130,
+            107,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            466,
+            205,
+            516,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "timestamp": 3.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            60,
+            130,
+            110,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            460,
+            205,
+            510,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "timestamp": 3.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            63,
+            130,
+            113,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            454,
+            205,
+            504,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "timestamp": 3.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            66,
+            130,
+            116,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            448,
+            205,
+            498,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "timestamp": 3.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            69,
+            130,
+            119,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            442,
+            205,
+            492,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "timestamp": 3.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            72,
+            130,
+            122,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            436,
+            205,
+            486,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "timestamp": 3.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            75,
+            130,
+            125,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            430,
+            205,
+            480,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "timestamp": 3.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            78,
+            130,
+            128,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            424,
+            205,
+            474,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "timestamp": 3.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            81,
+            130,
+            131,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            418,
+            205,
+            468,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "timestamp": 3.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            84,
+            130,
+            134,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            412,
+            205,
+            462,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "timestamp": 4.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            87,
+            130,
+            137,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            406,
+            205,
+            456,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "timestamp": 4.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            90,
+            130,
+            140,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            400,
+            205,
+            450,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "timestamp": 4.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            93,
+            130,
+            143,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            394,
+            205,
+            444,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "timestamp": 4.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            96,
+            130,
+            146,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            388,
+            205,
+            438,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "timestamp": 4.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            99,
+            130,
+            149,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            382,
+            205,
+            432,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "timestamp": 4.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            102,
+            130,
+            152,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            376,
+            205,
+            426,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "timestamp": 4.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            105,
+            130,
+            155,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            370,
+            205,
+            420,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "timestamp": 4.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            108,
+            130,
+            158,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            364,
+            205,
+            414,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "timestamp": 4.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            111,
+            130,
+            161,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            358,
+            205,
+            408,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "timestamp": 4.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            114,
+            130,
+            164,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            352,
+            205,
+            402,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "timestamp": 4.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            117,
+            130,
+            167,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            346,
+            205,
+            396,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "timestamp": 4.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            120,
+            130,
+            170,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            340,
+            205,
+            390,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 5.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            123,
+            130,
+            173,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            334,
+            205,
+            384,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "timestamp": 5.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            126,
+            130,
+            176,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            328,
+            205,
+            378,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "timestamp": 5.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            129,
+            130,
+            179,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            322,
+            205,
+            372,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "timestamp": 5.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            132,
+            130,
+            182,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            316,
+            205,
+            366,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "timestamp": 5.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            135,
+            130,
+            185,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            310,
+            205,
+            360,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "timestamp": 5.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            138,
+            130,
+            188,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            304,
+            205,
+            354,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "timestamp": 5.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            141,
+            130,
+            191,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            298,
+            205,
+            348,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "timestamp": 5.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            144,
+            130,
+            194,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            292,
+            205,
+            342,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "timestamp": 5.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            147,
+            130,
+            197,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            286,
+            205,
+            336,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "timestamp": 5.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            150,
+            130,
+            200,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            280,
+            205,
+            330,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "timestamp": 5.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            153,
+            130,
+            203,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            274,
+            205,
+            324,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "timestamp": 5.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            156,
+            130,
+            206,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            268,
+            205,
+            318,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "timestamp": 6.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            159,
+            130,
+            209,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            262,
+            205,
+            312,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "timestamp": 6.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            162,
+            130,
+            212,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            256,
+            205,
+            306,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "timestamp": 6.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            165,
+            130,
+            215,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            250,
+            205,
+            300,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "timestamp": 6.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            168,
+            130,
+            218,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            244,
+            205,
+            294,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "timestamp": 6.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            171,
+            130,
+            221,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            238,
+            205,
+            288,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "timestamp": 6.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            174,
+            130,
+            224,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            232,
+            205,
+            282,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "timestamp": 6.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            177,
+            130,
+            227,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            226,
+            205,
+            276,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "timestamp": 6.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            180,
+            130,
+            230,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            220,
+            205,
+            270,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "timestamp": 6.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            183,
+            130,
+            233,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            214,
+            205,
+            264,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "timestamp": 6.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            186,
+            130,
+            236,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            208,
+            205,
+            258,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "timestamp": 6.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            189,
+            130,
+            239,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            202,
+            205,
+            252,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "timestamp": 6.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            192,
+            130,
+            242,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            196,
+            205,
+            246,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "timestamp": 7.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            195,
+            130,
+            245,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            190,
+            205,
+            240,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "timestamp": 7.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            198,
+            130,
+            248,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            184,
+            205,
+            234,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "timestamp": 7.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            201,
+            130,
+            251,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            178,
+            205,
+            228,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "timestamp": 7.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            204,
+            130,
+            254,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            172,
+            205,
+            222,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "timestamp": 7.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            207,
+            130,
+            257,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            166,
+            205,
+            216,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "timestamp": 7.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            210,
+            130,
+            260,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            160,
+            205,
+            210,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "timestamp": 7.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            213,
+            130,
+            263,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            154,
+            205,
+            204,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "timestamp": 7.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            216,
+            130,
+            266,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            148,
+            205,
+            198,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "timestamp": 7.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            219,
+            130,
+            269,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            142,
+            205,
+            192,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "timestamp": 7.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            222,
+            130,
+            272,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            136,
+            205,
+            186,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "timestamp": 7.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            225,
+            130,
+            275,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            130,
+            205,
+            180,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "timestamp": 7.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            228,
+            130,
+            278,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            124,
+            205,
+            174,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "timestamp": 8.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            231,
+            130,
+            281,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            118,
+            205,
+            168,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "timestamp": 8.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            234,
+            130,
+            284,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            112,
+            205,
+            162,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "timestamp": 8.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            237,
+            130,
+            287,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            106,
+            205,
+            156,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "timestamp": 8.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            240,
+            130,
+            290,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            100,
+            205,
+            150,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "timestamp": 8.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            243,
+            130,
+            293,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            94,
+            205,
+            144,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "timestamp": 8.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            246,
+            130,
+            296,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            88,
+            205,
+            138,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "timestamp": 8.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            249,
+            130,
+            299,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            82,
+            205,
+            132,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "timestamp": 8.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            252,
+            130,
+            302,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            76,
+            205,
+            126,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "timestamp": 8.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            255,
+            130,
+            305,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            70,
+            205,
+            120,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "timestamp": 8.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            258,
+            130,
+            308,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            64,
+            205,
+            114,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "timestamp": 8.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            261,
+            130,
+            311,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            58,
+            205,
+            108,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "timestamp": 8.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            264,
+            130,
+            314,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            52,
+            205,
+            102,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "timestamp": 9.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            267,
+            130,
+            317,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            46,
+            205,
+            96,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "timestamp": 9.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            270,
+            130,
+            320,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            40,
+            205,
+            90,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "timestamp": 9.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            273,
+            130,
+            323,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            34,
+            205,
+            84,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "timestamp": 9.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            276,
+            130,
+            326,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            28,
+            205,
+            78,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "timestamp": 9.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            279,
+            130,
+            329,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            22,
+            205,
+            72,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "timestamp": 9.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            282,
+            130,
+            332,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            16,
+            205,
+            66,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "timestamp": 9.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            285,
+            130,
+            335,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            10,
+            205,
+            60,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "timestamp": 9.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            288,
+            130,
+            338,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            4,
+            205,
+            54,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "timestamp": 9.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            291,
+            130,
+            341,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -2,
+            205,
+            48,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "timestamp": 9.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            294,
+            130,
+            344,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -8,
+            205,
+            42,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "timestamp": 9.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            297,
+            130,
+            347,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -14,
+            205,
+            36,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "timestamp": 9.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            300,
+            130,
+            350,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -20,
+            205,
+            30,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "timestamp": 10.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            303,
+            130,
+            353,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -26,
+            205,
+            24,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "timestamp": 10.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            306,
+            130,
+            356,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -32,
+            205,
+            18,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "timestamp": 10.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            309,
+            130,
+            359,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -38,
+            205,
+            12,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "timestamp": 10.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            312,
+            130,
+            362,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_B",
+          "type": "car",
+          "bbox": [
+            -44,
+            205,
+            6,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "timestamp": 10.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            315,
+            130,
+            365,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "timestamp": 10.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            318,
+            130,
+            368,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "timestamp": 10.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            321,
+            130,
+            371,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "timestamp": 10.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            324,
+            130,
+            374,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "timestamp": 10.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            327,
+            130,
+            377,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "timestamp": 10.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            330,
+            130,
+            380,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "timestamp": 10.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            333,
+            130,
+            383,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "timestamp": 10.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            336,
+            130,
+            386,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "timestamp": 11.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            339,
+            130,
+            389,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "timestamp": 11.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            342,
+            130,
+            392,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "timestamp": 11.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            345,
+            130,
+            395,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "timestamp": 11.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            348,
+            130,
+            398,
+            155
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "timestamp": 11.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            351,
+            135,
+            401,
+            160
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "timestamp": 11.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            354,
+            140,
+            404,
+            165
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "timestamp": 11.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            357,
+            145,
+            407,
+            170
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "timestamp": 11.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            360,
+            150,
+            410,
+            175
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "timestamp": 11.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            363,
+            155,
+            413,
+            180
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "timestamp": 11.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            366,
+            160,
+            416,
+            185
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "timestamp": 11.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            369,
+            165,
+            419,
+            190
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "timestamp": 11.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            372,
+            170,
+            422,
+            195
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "timestamp": 12.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            375,
+            175,
+            425,
+            200
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "timestamp": 12.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            378,
+            180,
+            428,
+            205
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 146,
+      "timestamp": 12.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            381,
+            185,
+            431,
+            210
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "timestamp": 12.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            384,
+            190,
+            434,
+            215
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 148,
+      "timestamp": 12.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            387,
+            195,
+            437,
+            220
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 149,
+      "timestamp": 12.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            390,
+            200,
+            440,
+            225
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "timestamp": 12.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            393,
+            205,
+            443,
+            230
+          ],
+          "occluded": false,
+          "event": "lane_change"
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "timestamp": 12.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            396,
+            205,
+            446,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "timestamp": 12.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            399,
+            205,
+            449,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "timestamp": 12.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            402,
+            205,
+            452,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "timestamp": 12.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            405,
+            205,
+            455,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "timestamp": 12.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            408,
+            205,
+            458,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "timestamp": 13.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            411,
+            205,
+            461,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "timestamp": 13.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            414,
+            205,
+            464,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "timestamp": 13.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            417,
+            205,
+            467,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "timestamp": 13.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            420,
+            205,
+            470,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "timestamp": 13.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            423,
+            205,
+            473,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "timestamp": 13.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            426,
+            205,
+            476,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "timestamp": 13.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            429,
+            205,
+            479,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "timestamp": 13.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            432,
+            205,
+            482,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "timestamp": 13.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            435,
+            205,
+            485,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "timestamp": 13.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            438,
+            205,
+            488,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "timestamp": 13.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            441,
+            205,
+            491,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "timestamp": 13.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            444,
+            205,
+            494,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "timestamp": 14.0,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            447,
+            205,
+            497,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "timestamp": 14.08,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            450,
+            205,
+            500,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "timestamp": 14.17,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            453,
+            205,
+            503,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "timestamp": 14.25,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            456,
+            205,
+            506,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "timestamp": 14.33,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            459,
+            205,
+            509,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "timestamp": 14.42,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            462,
+            205,
+            512,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "timestamp": 14.5,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            465,
+            205,
+            515,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "timestamp": 14.58,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            468,
+            205,
+            518,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "timestamp": 14.67,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            471,
+            205,
+            521,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "timestamp": 14.75,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            474,
+            205,
+            524,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "timestamp": 14.83,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            477,
+            205,
+            527,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "timestamp": 14.92,
+      "objects": [
+        {
+          "id": "car_A",
+          "type": "car",
+          "bbox": [
+            480,
+            205,
+            530,
+            230
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    }
+  ]
+}

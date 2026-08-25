@@ -1,0 +1,3248 @@
+{
+  "video_id": "video_01_bouncing_ball",
+  "width": 640,
+  "height": 360,
+  "fps": 12,
+  "frames": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            31,
+            29,
+            61,
+            59
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "timestamp": 0.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            37,
+            33,
+            67,
+            63
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            43,
+            37,
+            73,
+            67
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "timestamp": 0.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            49,
+            41,
+            79,
+            71
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            55,
+            45,
+            85,
+            75
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            61,
+            49,
+            91,
+            79
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            67,
+            53,
+            97,
+            83
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            73,
+            57,
+            103,
+            87
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            79,
+            61,
+            109,
+            91
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            85,
+            65,
+            115,
+            95
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            91,
+            69,
+            121,
+            99
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "timestamp": 0.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            97,
+            73,
+            127,
+            103
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "timestamp": 1.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            103,
+            77,
+            133,
+            107
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "timestamp": 1.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            109,
+            81,
+            139,
+            111
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "timestamp": 1.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            115,
+            85,
+            145,
+            115
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            121,
+            89,
+            151,
+            119
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            127,
+            93,
+            157,
+            123
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            133,
+            97,
+            163,
+            127
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "timestamp": 1.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            139,
+            101,
+            169,
+            131
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "timestamp": 1.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            145,
+            105,
+            175,
+            135
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "timestamp": 1.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            151,
+            109,
+            181,
+            139
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "timestamp": 1.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            157,
+            113,
+            187,
+            143
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "timestamp": 1.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            163,
+            117,
+            193,
+            147
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "timestamp": 1.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            169,
+            121,
+            199,
+            151
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "timestamp": 2.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            175,
+            125,
+            205,
+            155
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "timestamp": 2.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            181,
+            129,
+            211,
+            159
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "timestamp": 2.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            187,
+            133,
+            217,
+            163
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "timestamp": 2.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            193,
+            137,
+            223,
+            167
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "timestamp": 2.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            199,
+            141,
+            229,
+            171
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "timestamp": 2.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            205,
+            145,
+            235,
+            175
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 2.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            211,
+            149,
+            241,
+            179
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "timestamp": 2.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            217,
+            153,
+            247,
+            183
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "timestamp": 2.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            223,
+            157,
+            253,
+            187
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "timestamp": 2.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            229,
+            161,
+            259,
+            191
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "timestamp": 2.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            235,
+            165,
+            265,
+            195
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "timestamp": 2.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            241,
+            169,
+            271,
+            199
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "timestamp": 3.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            247,
+            173,
+            277,
+            203
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "timestamp": 3.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            253,
+            177,
+            283,
+            207
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "timestamp": 3.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            259,
+            181,
+            289,
+            211
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "timestamp": 3.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            265,
+            185,
+            295,
+            215
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "timestamp": 3.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            271,
+            189,
+            301,
+            219
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "timestamp": 3.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            277,
+            193,
+            307,
+            223
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "timestamp": 3.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            283,
+            197,
+            313,
+            227
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "timestamp": 3.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            289,
+            201,
+            319,
+            231
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "timestamp": 3.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            295,
+            205,
+            325,
+            235
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "timestamp": 3.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            301,
+            209,
+            331,
+            239
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "timestamp": 3.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            307,
+            213,
+            337,
+            243
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "timestamp": 3.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            313,
+            217,
+            343,
+            247
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "timestamp": 4.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            319,
+            221,
+            349,
+            251
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "timestamp": 4.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            325,
+            225,
+            355,
+            255
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "timestamp": 4.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            331,
+            229,
+            361,
+            259
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "timestamp": 4.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            337,
+            233,
+            367,
+            263
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "timestamp": 4.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            343,
+            237,
+            373,
+            267
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "timestamp": 4.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            349,
+            241,
+            379,
+            271
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "timestamp": 4.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            355,
+            245,
+            385,
+            275
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "timestamp": 4.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            361,
+            249,
+            391,
+            279
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "timestamp": 4.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            367,
+            253,
+            397,
+            283
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "timestamp": 4.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            373,
+            257,
+            403,
+            287
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "timestamp": 4.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            379,
+            261,
+            409,
+            291
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "timestamp": 4.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            385,
+            265,
+            415,
+            295
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 5.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            391,
+            269,
+            421,
+            299
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "timestamp": 5.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            397,
+            273,
+            427,
+            303
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "timestamp": 5.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            403,
+            277,
+            433,
+            307
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "timestamp": 5.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            409,
+            281,
+            439,
+            311
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "timestamp": 5.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            415,
+            285,
+            445,
+            315
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "timestamp": 5.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            421,
+            289,
+            451,
+            319
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "timestamp": 5.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            427,
+            293,
+            457,
+            323
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "timestamp": 5.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            433,
+            297,
+            463,
+            327
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "timestamp": 5.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            439,
+            301,
+            469,
+            331
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "timestamp": 5.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            445,
+            305,
+            475,
+            335
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "timestamp": 5.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            451,
+            309,
+            481,
+            339
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "timestamp": 5.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            457,
+            313,
+            487,
+            343
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "timestamp": 6.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            463,
+            317,
+            493,
+            347
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "timestamp": 6.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            469,
+            321,
+            499,
+            351
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "timestamp": 6.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            475,
+            325,
+            505,
+            355
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "timestamp": 6.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            481,
+            329,
+            511,
+            359
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "timestamp": 6.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            487,
+            330,
+            517,
+            360
+          ],
+          "occluded": false,
+          "event": "bounced_off_bottom_wall"
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "timestamp": 6.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            493,
+            326,
+            523,
+            356
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "timestamp": 6.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            499,
+            322,
+            529,
+            352
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "timestamp": 6.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            505,
+            318,
+            535,
+            348
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "timestamp": 6.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            511,
+            314,
+            541,
+            344
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "timestamp": 6.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            517,
+            310,
+            547,
+            340
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "timestamp": 6.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            523,
+            306,
+            553,
+            336
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "timestamp": 6.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            529,
+            302,
+            559,
+            332
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "timestamp": 7.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            535,
+            298,
+            565,
+            328
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "timestamp": 7.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            541,
+            294,
+            571,
+            324
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "timestamp": 7.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            547,
+            290,
+            577,
+            320
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "timestamp": 7.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            553,
+            286,
+            583,
+            316
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "timestamp": 7.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            559,
+            282,
+            589,
+            312
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "timestamp": 7.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            565,
+            278,
+            595,
+            308
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "timestamp": 7.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            571,
+            274,
+            601,
+            304
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "timestamp": 7.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            577,
+            270,
+            607,
+            300
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "timestamp": 7.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            583,
+            266,
+            613,
+            296
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "timestamp": 7.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            589,
+            262,
+            619,
+            292
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "timestamp": 7.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            595,
+            258,
+            625,
+            288
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "timestamp": 7.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            601,
+            254,
+            631,
+            284
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "timestamp": 8.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            607,
+            250,
+            637,
+            280
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "timestamp": 8.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            610,
+            246,
+            640,
+            276
+          ],
+          "occluded": false,
+          "event": "bounced_off_right_wall"
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "timestamp": 8.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            604,
+            242,
+            634,
+            272
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "timestamp": 8.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            598,
+            238,
+            628,
+            268
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "timestamp": 8.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            592,
+            234,
+            622,
+            264
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "timestamp": 8.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            586,
+            230,
+            616,
+            260
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "timestamp": 8.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            580,
+            226,
+            610,
+            256
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "timestamp": 8.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            574,
+            222,
+            604,
+            252
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "timestamp": 8.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            568,
+            218,
+            598,
+            248
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "timestamp": 8.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            562,
+            214,
+            592,
+            244
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "timestamp": 8.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            556,
+            210,
+            586,
+            240
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "timestamp": 8.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            550,
+            206,
+            580,
+            236
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "timestamp": 9.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            544,
+            202,
+            574,
+            232
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "timestamp": 9.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            538,
+            198,
+            568,
+            228
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "timestamp": 9.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            532,
+            194,
+            562,
+            224
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "timestamp": 9.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            526,
+            190,
+            556,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "timestamp": 9.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            520,
+            186,
+            550,
+            216
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "timestamp": 9.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            514,
+            182,
+            544,
+            212
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "timestamp": 9.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            508,
+            178,
+            538,
+            208
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "timestamp": 9.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            502,
+            174,
+            532,
+            204
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "timestamp": 9.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            496,
+            170,
+            526,
+            200
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "timestamp": 9.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            490,
+            166,
+            520,
+            196
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "timestamp": 9.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            484,
+            162,
+            514,
+            192
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "timestamp": 9.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            478,
+            158,
+            508,
+            188
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "timestamp": 10.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            472,
+            154,
+            502,
+            184
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "timestamp": 10.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            466,
+            150,
+            496,
+            180
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "timestamp": 10.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            460,
+            146,
+            490,
+            176
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "timestamp": 10.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            454,
+            142,
+            484,
+            172
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "timestamp": 10.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            448,
+            138,
+            478,
+            168
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "timestamp": 10.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            442,
+            134,
+            472,
+            164
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "timestamp": 10.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            436,
+            130,
+            466,
+            160
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "timestamp": 10.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            430,
+            126,
+            460,
+            156
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "timestamp": 10.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            424,
+            122,
+            454,
+            152
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "timestamp": 10.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            418,
+            118,
+            448,
+            148
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "timestamp": 10.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            412,
+            114,
+            442,
+            144
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "timestamp": 10.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            406,
+            110,
+            436,
+            140
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "timestamp": 11.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            400,
+            106,
+            430,
+            136
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "timestamp": 11.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            394,
+            102,
+            424,
+            132
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "timestamp": 11.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            388,
+            98,
+            418,
+            128
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "timestamp": 11.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            382,
+            94,
+            412,
+            124
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "timestamp": 11.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            376,
+            90,
+            406,
+            120
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "timestamp": 11.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            370,
+            86,
+            400,
+            116
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "timestamp": 11.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            364,
+            82,
+            394,
+            112
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "timestamp": 11.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            358,
+            78,
+            388,
+            108
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "timestamp": 11.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            352,
+            74,
+            382,
+            104
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "timestamp": 11.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            346,
+            70,
+            376,
+            100
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "timestamp": 11.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            340,
+            66,
+            370,
+            96
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "timestamp": 11.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            334,
+            62,
+            364,
+            92
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "timestamp": 12.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            328,
+            58,
+            358,
+            88
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "timestamp": 12.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            322,
+            54,
+            352,
+            84
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 146,
+      "timestamp": 12.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            316,
+            50,
+            346,
+            80
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "timestamp": 12.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            310,
+            46,
+            340,
+            76
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 148,
+      "timestamp": 12.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            304,
+            42,
+            334,
+            72
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 149,
+      "timestamp": 12.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            298,
+            38,
+            328,
+            68
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "timestamp": 12.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            292,
+            34,
+            322,
+            64
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "timestamp": 12.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            286,
+            30,
+            316,
+            60
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "timestamp": 12.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            280,
+            26,
+            310,
+            56
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "timestamp": 12.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            274,
+            22,
+            304,
+            52
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "timestamp": 12.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            268,
+            18,
+            298,
+            48
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "timestamp": 12.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            262,
+            14,
+            292,
+            44
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "timestamp": 13.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            256,
+            10,
+            286,
+            40
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "timestamp": 13.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            250,
+            6,
+            280,
+            36
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "timestamp": 13.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            244,
+            2,
+            274,
+            32
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "timestamp": 13.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            238,
+            0,
+            268,
+            30
+          ],
+          "occluded": false,
+          "event": "bounced_off_top_wall"
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "timestamp": 13.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            232,
+            4,
+            262,
+            34
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "timestamp": 13.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            226,
+            8,
+            256,
+            38
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "timestamp": 13.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            220,
+            12,
+            250,
+            42
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "timestamp": 13.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            214,
+            16,
+            244,
+            46
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "timestamp": 13.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            208,
+            20,
+            238,
+            50
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "timestamp": 13.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            202,
+            24,
+            232,
+            54
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "timestamp": 13.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            196,
+            28,
+            226,
+            58
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "timestamp": 13.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            190,
+            32,
+            220,
+            62
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "timestamp": 14.0,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            184,
+            36,
+            214,
+            66
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "timestamp": 14.08,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            178,
+            40,
+            208,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "timestamp": 14.17,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            172,
+            44,
+            202,
+            74
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "timestamp": 14.25,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            166,
+            48,
+            196,
+            78
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "timestamp": 14.33,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            160,
+            52,
+            190,
+            82
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "timestamp": 14.42,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            154,
+            56,
+            184,
+            86
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "timestamp": 14.5,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            148,
+            60,
+            178,
+            90
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "timestamp": 14.58,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            142,
+            64,
+            172,
+            94
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "timestamp": 14.67,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            136,
+            68,
+            166,
+            98
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "timestamp": 14.75,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            130,
+            72,
+            160,
+            102
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "timestamp": 14.83,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            124,
+            76,
+            154,
+            106
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "timestamp": 14.92,
+      "objects": [
+        {
+          "id": "ball_1",
+          "type": "ball",
+          "bbox": [
+            118,
+            80,
+            148,
+            110
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5984 @@
+{
+  "video_id": "video_03_pedestrian_crossing",
+  "width": 640,
+  "height": 360,
+  "fps": 12,
+  "frames": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            4,
+            180,
+            24,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 1,
+      "timestamp": 0.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            8,
+            180,
+            28,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 2,
+      "timestamp": 0.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            12,
+            180,
+            32,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 3,
+      "timestamp": 0.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            16,
+            180,
+            36,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 4,
+      "timestamp": 0.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            20,
+            180,
+            40,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 5,
+      "timestamp": 0.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            24,
+            180,
+            44,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 6,
+      "timestamp": 0.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            28,
+            180,
+            48,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 7,
+      "timestamp": 0.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            32,
+            180,
+            52,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 8,
+      "timestamp": 0.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            36,
+            180,
+            56,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 9,
+      "timestamp": 0.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            40,
+            180,
+            60,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "timestamp": 0.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            44,
+            180,
+            64,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 11,
+      "timestamp": 0.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            48,
+            180,
+            68,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 12,
+      "timestamp": 1.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            52,
+            180,
+            72,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 13,
+      "timestamp": 1.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            56,
+            180,
+            76,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 14,
+      "timestamp": 1.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            60,
+            180,
+            80,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 15,
+      "timestamp": 1.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            64,
+            180,
+            84,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 16,
+      "timestamp": 1.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            68,
+            180,
+            88,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 17,
+      "timestamp": 1.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            72,
+            180,
+            92,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 18,
+      "timestamp": 1.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            76,
+            180,
+            96,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 19,
+      "timestamp": 1.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            80,
+            180,
+            100,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "timestamp": 1.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            84,
+            180,
+            104,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 21,
+      "timestamp": 1.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            88,
+            180,
+            108,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 22,
+      "timestamp": 1.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            92,
+            180,
+            112,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 23,
+      "timestamp": 1.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            96,
+            180,
+            116,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 24,
+      "timestamp": 2.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            100,
+            180,
+            120,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 25,
+      "timestamp": 2.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            104,
+            180,
+            124,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 26,
+      "timestamp": 2.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            108,
+            180,
+            128,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 27,
+      "timestamp": 2.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            112,
+            180,
+            132,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 28,
+      "timestamp": 2.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            116,
+            180,
+            136,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 29,
+      "timestamp": 2.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            120,
+            180,
+            140,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 2.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            124,
+            180,
+            144,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 31,
+      "timestamp": 2.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            128,
+            180,
+            148,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 32,
+      "timestamp": 2.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            132,
+            180,
+            152,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 33,
+      "timestamp": 2.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            136,
+            180,
+            156,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 34,
+      "timestamp": 2.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            140,
+            180,
+            160,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 35,
+      "timestamp": 2.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            144,
+            180,
+            164,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 36,
+      "timestamp": 3.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            148,
+            180,
+            168,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 37,
+      "timestamp": 3.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            152,
+            180,
+            172,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 38,
+      "timestamp": 3.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            156,
+            180,
+            176,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 39,
+      "timestamp": 3.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            160,
+            180,
+            180,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "timestamp": 3.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            164,
+            180,
+            184,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 41,
+      "timestamp": 3.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            168,
+            180,
+            188,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 42,
+      "timestamp": 3.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            172,
+            180,
+            192,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 43,
+      "timestamp": 3.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            176,
+            180,
+            196,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 44,
+      "timestamp": 3.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            180,
+            180,
+            200,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 45,
+      "timestamp": 3.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            184,
+            180,
+            204,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 46,
+      "timestamp": 3.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            188,
+            180,
+            208,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 47,
+      "timestamp": 3.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            192,
+            180,
+            212,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 48,
+      "timestamp": 4.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            196,
+            180,
+            216,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            -50,
+            170,
+            10,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 49,
+      "timestamp": 4.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            200,
+            180,
+            220,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            -40,
+            170,
+            20,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "timestamp": 4.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            204,
+            180,
+            224,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            -30,
+            170,
+            30,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 51,
+      "timestamp": 4.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            208,
+            180,
+            228,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            -20,
+            170,
+            40,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 52,
+      "timestamp": 4.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            212,
+            180,
+            232,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            -10,
+            170,
+            50,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 53,
+      "timestamp": 4.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            216,
+            180,
+            236,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            0,
+            170,
+            60,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 54,
+      "timestamp": 4.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            220,
+            180,
+            240,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            10,
+            170,
+            70,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 55,
+      "timestamp": 4.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            224,
+            180,
+            244,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            20,
+            170,
+            80,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 56,
+      "timestamp": 4.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            228,
+            180,
+            248,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            30,
+            170,
+            90,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 57,
+      "timestamp": 4.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            232,
+            180,
+            252,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            40,
+            170,
+            100,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 58,
+      "timestamp": 4.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            236,
+            180,
+            256,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            50,
+            170,
+            110,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 59,
+      "timestamp": 4.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            240,
+            180,
+            260,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            60,
+            170,
+            120,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 5.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            244,
+            180,
+            264,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            70,
+            170,
+            130,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 61,
+      "timestamp": 5.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            248,
+            180,
+            268,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            80,
+            170,
+            140,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 62,
+      "timestamp": 5.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            252,
+            180,
+            272,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            90,
+            170,
+            150,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 63,
+      "timestamp": 5.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            256,
+            180,
+            276,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            100,
+            170,
+            160,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 64,
+      "timestamp": 5.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            260,
+            180,
+            280,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            110,
+            170,
+            170,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 65,
+      "timestamp": 5.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            264,
+            180,
+            284,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            120,
+            170,
+            180,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 66,
+      "timestamp": 5.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            268,
+            180,
+            288,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            130,
+            170,
+            190,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 67,
+      "timestamp": 5.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            272,
+            180,
+            292,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            140,
+            170,
+            200,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 68,
+      "timestamp": 5.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            276,
+            180,
+            296,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            150,
+            170,
+            210,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 69,
+      "timestamp": 5.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            280,
+            180,
+            300,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            160,
+            170,
+            220,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "timestamp": 5.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            284,
+            180,
+            304,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            170,
+            170,
+            230,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 71,
+      "timestamp": 5.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            288,
+            180,
+            308,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            180,
+            170,
+            240,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 72,
+      "timestamp": 6.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            292,
+            180,
+            312,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            190,
+            170,
+            250,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 73,
+      "timestamp": 6.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            296,
+            180,
+            316,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            200,
+            170,
+            260,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 74,
+      "timestamp": 6.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            300,
+            180,
+            320,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            210,
+            170,
+            270,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 75,
+      "timestamp": 6.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            304,
+            180,
+            324,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            220,
+            170,
+            280,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 76,
+      "timestamp": 6.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            308,
+            180,
+            328,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            230,
+            170,
+            290,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 77,
+      "timestamp": 6.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            312,
+            180,
+            332,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            240,
+            170,
+            300,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 78,
+      "timestamp": 6.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            316,
+            180,
+            336,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            250,
+            170,
+            310,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 79,
+      "timestamp": 6.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            320,
+            180,
+            340,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            260,
+            170,
+            320,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "timestamp": 6.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            324,
+            180,
+            344,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            270,
+            170,
+            330,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 81,
+      "timestamp": 6.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            328,
+            180,
+            348,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            280,
+            170,
+            340,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 82,
+      "timestamp": 6.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            332,
+            180,
+            352,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            290,
+            170,
+            350,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 83,
+      "timestamp": 6.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            336,
+            180,
+            356,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            300,
+            170,
+            360,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 84,
+      "timestamp": 7.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            340,
+            180,
+            360,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            310,
+            170,
+            370,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 85,
+      "timestamp": 7.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            344,
+            180,
+            364,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            320,
+            170,
+            380,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 86,
+      "timestamp": 7.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            348,
+            180,
+            368,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            330,
+            170,
+            390,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 87,
+      "timestamp": 7.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            352,
+            180,
+            372,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            340,
+            170,
+            400,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 88,
+      "timestamp": 7.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            356,
+            180,
+            376,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            350,
+            170,
+            410,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 89,
+      "timestamp": 7.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            360,
+            180,
+            380,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            360,
+            170,
+            420,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "timestamp": 7.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            364,
+            180,
+            384,
+            220
+          ],
+          "occluded": true,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            370,
+            170,
+            430,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 91,
+      "timestamp": 7.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            368,
+            180,
+            388,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            380,
+            170,
+            440,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 92,
+      "timestamp": 7.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            372,
+            180,
+            392,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            390,
+            170,
+            450,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 93,
+      "timestamp": 7.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            376,
+            180,
+            396,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            400,
+            170,
+            460,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 94,
+      "timestamp": 7.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            380,
+            180,
+            400,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            410,
+            170,
+            470,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 95,
+      "timestamp": 7.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            384,
+            180,
+            404,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            420,
+            170,
+            480,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 96,
+      "timestamp": 8.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            388,
+            180,
+            408,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            430,
+            170,
+            490,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 97,
+      "timestamp": 8.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            392,
+            180,
+            412,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            440,
+            170,
+            500,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 98,
+      "timestamp": 8.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            396,
+            180,
+            416,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            450,
+            170,
+            510,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 99,
+      "timestamp": 8.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            400,
+            180,
+            420,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            460,
+            170,
+            520,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "timestamp": 8.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            404,
+            180,
+            424,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            470,
+            170,
+            530,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 101,
+      "timestamp": 8.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            408,
+            180,
+            428,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            480,
+            170,
+            540,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 102,
+      "timestamp": 8.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            412,
+            180,
+            432,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            490,
+            170,
+            550,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 103,
+      "timestamp": 8.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            416,
+            180,
+            436,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            500,
+            170,
+            560,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 104,
+      "timestamp": 8.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            420,
+            180,
+            440,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            510,
+            170,
+            570,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 105,
+      "timestamp": 8.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            424,
+            180,
+            444,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            520,
+            170,
+            580,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 106,
+      "timestamp": 8.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            428,
+            180,
+            448,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            530,
+            170,
+            590,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 107,
+      "timestamp": 8.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            432,
+            180,
+            452,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            540,
+            170,
+            600,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 108,
+      "timestamp": 9.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            436,
+            180,
+            456,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            550,
+            170,
+            610,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 109,
+      "timestamp": 9.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            440,
+            180,
+            460,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            560,
+            170,
+            620,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "timestamp": 9.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            444,
+            180,
+            464,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            570,
+            170,
+            630,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 111,
+      "timestamp": 9.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            448,
+            180,
+            468,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            580,
+            170,
+            640,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 112,
+      "timestamp": 9.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            452,
+            180,
+            472,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            590,
+            170,
+            650,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 113,
+      "timestamp": 9.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            456,
+            180,
+            476,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            600,
+            170,
+            660,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 114,
+      "timestamp": 9.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            460,
+            180,
+            480,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            610,
+            170,
+            670,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 115,
+      "timestamp": 9.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            464,
+            180,
+            484,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            620,
+            170,
+            680,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 116,
+      "timestamp": 9.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            468,
+            180,
+            488,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "car_C",
+          "type": "car",
+          "bbox": [
+            630,
+            170,
+            690,
+            198
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 117,
+      "timestamp": 9.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            472,
+            180,
+            492,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 118,
+      "timestamp": 9.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            476,
+            180,
+            496,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 119,
+      "timestamp": 9.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            480,
+            180,
+            500,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "timestamp": 10.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            484,
+            180,
+            504,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 121,
+      "timestamp": 10.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            488,
+            180,
+            508,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 122,
+      "timestamp": 10.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            492,
+            180,
+            512,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 123,
+      "timestamp": 10.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            496,
+            180,
+            516,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 124,
+      "timestamp": 10.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            500,
+            180,
+            520,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "timestamp": 10.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            504,
+            180,
+            524,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 126,
+      "timestamp": 10.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            508,
+            180,
+            528,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 127,
+      "timestamp": 10.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            512,
+            180,
+            532,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 128,
+      "timestamp": 10.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            516,
+            180,
+            536,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 129,
+      "timestamp": 10.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            520,
+            180,
+            540,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "timestamp": 10.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            524,
+            180,
+            544,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 131,
+      "timestamp": 10.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            528,
+            180,
+            548,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 132,
+      "timestamp": 11.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            532,
+            180,
+            552,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 133,
+      "timestamp": 11.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            536,
+            180,
+            556,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 134,
+      "timestamp": 11.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            540,
+            180,
+            560,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 135,
+      "timestamp": 11.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            544,
+            180,
+            564,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 136,
+      "timestamp": 11.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            548,
+            180,
+            568,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 137,
+      "timestamp": 11.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            552,
+            180,
+            572,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 138,
+      "timestamp": 11.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            556,
+            180,
+            576,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 139,
+      "timestamp": 11.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            560,
+            180,
+            580,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "timestamp": 11.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            564,
+            180,
+            584,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 141,
+      "timestamp": 11.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            568,
+            180,
+            588,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 142,
+      "timestamp": 11.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            572,
+            180,
+            592,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 143,
+      "timestamp": 11.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            576,
+            180,
+            596,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 144,
+      "timestamp": 12.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            580,
+            180,
+            600,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 145,
+      "timestamp": 12.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            584,
+            180,
+            604,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 146,
+      "timestamp": 12.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            588,
+            180,
+            608,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 147,
+      "timestamp": 12.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            592,
+            180,
+            612,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 148,
+      "timestamp": 12.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            596,
+            180,
+            616,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 149,
+      "timestamp": 12.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            600,
+            180,
+            620,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "timestamp": 12.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            604,
+            180,
+            624,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 151,
+      "timestamp": 12.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            608,
+            180,
+            628,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 152,
+      "timestamp": 12.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            612,
+            180,
+            632,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 153,
+      "timestamp": 12.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            616,
+            180,
+            636,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 154,
+      "timestamp": 12.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            620,
+            180,
+            640,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 155,
+      "timestamp": 12.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            624,
+            180,
+            644,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 156,
+      "timestamp": 13.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            628,
+            180,
+            648,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 157,
+      "timestamp": 13.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            632,
+            180,
+            652,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 158,
+      "timestamp": 13.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        },
+        {
+          "id": "person_1",
+          "type": "person",
+          "bbox": [
+            636,
+            180,
+            656,
+            220
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 159,
+      "timestamp": 13.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "timestamp": 13.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 161,
+      "timestamp": 13.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 162,
+      "timestamp": 13.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 163,
+      "timestamp": 13.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 164,
+      "timestamp": 13.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 165,
+      "timestamp": 13.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 166,
+      "timestamp": 13.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 167,
+      "timestamp": 13.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 168,
+      "timestamp": 14.0,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 169,
+      "timestamp": 14.08,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "timestamp": 14.17,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 171,
+      "timestamp": 14.25,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 172,
+      "timestamp": 14.33,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 173,
+      "timestamp": 14.42,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 174,
+      "timestamp": 14.5,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 175,
+      "timestamp": 14.58,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 176,
+      "timestamp": 14.67,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 177,
+      "timestamp": 14.75,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 178,
+      "timestamp": 14.83,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    },
+    {
+      "frame": 179,
+      "timestamp": 14.92,
+      "objects": [
+        {
+          "id": "sign_1",
+          "type": "sign",
+          "bbox": [
+            20,
+            20,
+            50,
+            70
+          ],
+          "occluded": false,
+          "event": null
+        }
+      ]
+    }
+  ]
+}
